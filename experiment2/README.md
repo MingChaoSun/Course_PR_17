@@ -22,7 +22,7 @@ We have two advanced tasks, you can choose one of them to complete:
 
 Propose a method to extract handwritten numerals from real photos like these:
 
-
+![img](https://github.com/MingChaoSun/Course_PR_17/blob/patch-1/experiment2/img/realphoto.jpg)
 
 #### T2: Recognizing The CAPTCHA(Website Verification Code)
 
